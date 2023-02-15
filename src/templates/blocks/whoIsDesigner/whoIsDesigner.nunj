@@ -1,18 +1,18 @@
 <section class="whoIsDesigner">
 	<div class="container">
 		<div class="section__inner">
-			<h2 class="section__title">кто такой дизайнер интерьеров?</h2>
+			<h2 class="section__title">Кто такой 3D - визуализатор?</h2>
 			<h2 class="section__subtitle">Мы дадим вам <strong>профессиональные знания и навыки,</strong> чтобы вы могли сразу устроиться на <strong>работу в компанию или начать работать на фрилансе.</strong>
 			</h2>
 			<div class="whoIsDesigner__content">
 				<div class="whoIsDesigner__img-wrap">
-					<img class="whoIsDesigner__img lazyload" data-src="assets/images/main/whoIsDesigner.jpg" loading="lazy" alt="">
+					<img class="whoIsDesigner__img lazyload" src="#" data-src="assets/images/main/whoIsDesigner.jpg" width="450" height="550" loading="lazy" alt="">
 				</div>
 				<div class="whoIsDesigner__info">
 					<div class="whoIsDesigner__text-wrap">
 						<p class="whoIsDesigner__text">
-							<strong>Дизайнер интерьеров -</strong> занимается продумыванием архитектурной концепции пространств, разработкой вариантов оформления интерьеров. Делает комплект рабочей документации, составляет спецификации и готовит визуализацию проекта.</p>
-						<p class="whoIsDesigner__text">Профессионал в дизайне интерьера должен разбираться в инженерных коммуникациях, типах и видах освещения, системах вентиляции и кондиционирования, отопления, канализации и водоснабжения. Разбираться в современных стилестических решениях и строительных материалах. Конкурентым преимуществом будет навык делать 3D визуализацию проекта.</p>
+							<strong>3D - визуализатор -</strong> Специалист, который создает 3D модели, изображения, объекты с использоваем компьютерных программ.</p>
+						<p class="whoIsDesigner__text">Профессия 3D визуализатора востребована в различных сферах: в дизайне интерьеров, архитектуре, производстве мебели, материалов, и даже рекламе, при проектировании выставочных пространств.</p>
 					</div>
 					<div class="whoIsDesigner__numbers numbers">
 						<ul class="numbers__list">

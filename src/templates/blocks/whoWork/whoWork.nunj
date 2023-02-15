@@ -2,21 +2,21 @@
 	<div class="container">
 		<div class="section__inner">
 			<h2 class="section__subtitle">
-				кем вы <strong>БУДЕТЕ работать после</strong> окончания <strong>обучения?</strong>
+				Где вы <strong>сможете работать после</strong> окончания <strong>курса?</strong>
 			</h2>
 			<ul class="whoWork__list">
 				<li class="whoWork__item">
-					<span class="whoWork__title">Дизайнером интерьеров</span>
-					<span class="whoWork__salary">от <span>500$</span></span>
+					<span class="whoWork__title">Дизайн-студии</span>
+					{# <span class="whoWork__salary">от <span>500$</span></span> #}
 				</li>
 				<li class="whoWork__item">
-					<span class="whoWork__title">Дизайнером декоратором</span>
-					<span class="whoWork__salary">от <span>700$</span></span>
+					<span class="whoWork__title">Freelance</span>
+					{# <span class="whoWork__salary">от <span>700$</span></span> #}
 				</li>
-				<li class="whoWork__item">
+				{# <li class="whoWork__item">
 					<span class="whoWork__title">3D-визуализатором</span>
 					<span class="whoWork__salary">от <span>650$</span></span>
-				</li>
+				</li> #}
 			</ul>
 		</div>
 	</div>

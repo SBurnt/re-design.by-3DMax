@@ -44,6 +44,12 @@
       margin-bottom: 30px;
     }
 
+		br {
+			@include media("max", "sm") {
+				display: none;
+			}
+		}
+
     strong {
       font-weight: 600;
     }
